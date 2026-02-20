@@ -1,3 +1,4 @@
 [
-    {"nombre": "ABC", "duracion_en_minutos": 4}
+    {"nombre": "ABC", "duracion_en_minutos": 4},
+    {"nombre": "123", "duracion_en_minutos": 3},
 ]
